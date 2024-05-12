@@ -2,7 +2,7 @@
 - 👀 Solana dev since 2021
 - 🌱 Rust, Javascript, Typescript. Started with Solidity
 - 💞️ Looking to collaborate on SVM
-- 📫 How to reach me @zerosumgamer on telegram
+- 📫 @zerosumgamer on telegram
 
 <!---
 pepsibasic/pepsibasic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
