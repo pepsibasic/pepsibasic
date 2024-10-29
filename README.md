@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pepsibasic
-- 👀 Solana dev since 2021
 - 🌱 Rust, Javascript, Typescript. Started with Solidity
-- 💞️ Looking to collaborate on SVM
 - 📫 @zerosumgamer on telegram
 
 <!---
