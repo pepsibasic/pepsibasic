@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pepsibasic
-- 🌱 Rust, Javascript, Typescript. Started with Solidity
+- 🌱 Rust, Javascript, Solidity
 - 📫 @zerosumgamer on telegram
 
 <!---
